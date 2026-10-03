@@ -1,0 +1,9 @@
+{
+  "name": "Mandi Guys Operations",
+  "short_name": "Mandi Ops",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f4f4",
+  "theme_color": "#502c1f",
+  "icons": [{ "src": "brand-symbol.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
