@@ -1,5 +1,0 @@
-:HL["/mandi-guys-demo/_next/static/chunks/05bnh443isied.css","style"]
-:HL["/mandi-guys-demo/_next/static/chunks/1x-5rw429oko5.css","style"]
-:HL["/mandi-guys-demo/_next/static/media/57696fb0c8dcfe1f-s.p.29a202atpp3ye.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/mandi-guys-demo/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(app)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"admin","param":null,"prefetchHints":4192,"slots":{"children":{"name":"escalation","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"RdysJ3u1FTn-cspINmx5p"}
